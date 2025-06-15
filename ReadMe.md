@@ -1,4 +1,4 @@
-# Data Analysis with Python
+# House price prediction using python
 
 This project contains Jupyter notebooks for EDA, regression modeling, and insights using Python's pandas, numpy, matplotlib, Seaborn and sklearn.
 
